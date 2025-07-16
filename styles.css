@@ -13,12 +13,11 @@ body {
 
 .container {
     max-width: 600px;
-    margin: 250px auto;
+    margin: 0 auto;
     background: white;
     border-radius: 15px;
     box-shadow: 0 10px 30px rgba(0,0,0,0.2);
     padding: 30px;
-    
 }
 
 h1 {
